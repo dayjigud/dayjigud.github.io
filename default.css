@@ -105,6 +105,10 @@
         height: 100%;
       }
 
+    .vote {
+        width: 100%;
+        height: auto;
+    }
 
   .video-content h2 {
     font-size: 200%;
