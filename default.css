@@ -114,6 +114,20 @@
     font-size: 200%;
   }
   
+  .Maps {
+    text-align: center;
+    font-weight: bold;
+    color: #ed5017;
+  }
+  .Maps a {
+    color: #ed5017;
+    font-size: 200%;
+  
+  }
+  .Maps a:hover {
+    color: lightgray;
+  }
+
   .sketch-books {
     margin: 3em 0em;
     display: flex;
