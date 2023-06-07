@@ -1,0 +1,72 @@
+/* DESKTOP CSS - ADD CSS TO AFFECT ALL DESKTOP PAGES */
+/*SITE_THEME_BEGIN*/
+/* ==================================================================== */
+/*                     System Style Definitions                         */
+/* ==================================================================== */
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*#dm div.dmContent h1
+{
+	font-size:50px;
+}
+*#dm div.dmFooter h1
+{
+	font-size:50px;
+}
+*#dm div.dm-title h1
+{
+	font-size:50px;
+}
+*#dm DIV.dmOuter DIV.dmInner,*#dm DIV.dmOuter DIV#dmSlideRightNavRight
+{
+	background-color:rgba(255,255,255,1);
+}
+
+/* ==================================================================== */
+/*                             Inner                                    */
+/* ==================================================================== */
+*#dm div.dmInner,*#dm div.dmInner *.dmRespCol,*#dm *.ecwid *,*#dm *.dmform *.dmforminput label,*.dmPrettyList *.listText,*.dmPrettyList *.itemName,*#dm *.dmRestaurantMenu *.menuItemBox
+{
+	font-size:14px;
+}
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*#dm div.dmContent h2,*#dm div.dmFooter h2,*#dm div.dm-title h2,*#dm div.dmContent h2
+{
+	font-size:40px;
+}
+*#dm div.dmContent h3,*#dm div.dmFooter h3,*#dm div.dm-title h3,*#dm div.dmContent h3
+{
+	font-size:36px;
+}
+*#dm div.dmContent h4,*#dm div.dmFooter h4,*#dm div.dm-title h4,*#dm div.dmContent h4
+{
+	font-size:18px;
+}
+
+/* ==================================================================== */
+/*                             Inner                                    */
+/* ==================================================================== */
+*#dm div.dmInner,*#dm div.dmInner *.dmRespCol,*#dm *.ecwid *,*#dm *.dmform *.dmforminput label,*.dmPrettyList *.listText,*.dmPrettyList *.itemName,*#dm *.dmRestaurantMenu *.menuItemBox,*.dmRestaurantMenu *.menuItemName,*.dmRestaurantMenu *.menuItemDesc,*.dmRestaurantMenu *.menuItemPrice,*.dmPhotoGallery p.caption-text,*.dmGeoLocation a span.dmGeoMLocItemTitle,*.dmGeoLocation a span.dmGeoMLocItemDetails,*.map-popup-description
+{
+	font-size:14px;
+}
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*#dm *.dmContent *.dmRespRow *.dmRespCol,*#dm *.dmFooter *.dmRespRow *.dmRespCol
+{
+	padding-left:10px;
+	padding-right:10px;
+}
+*#dm *.dmContent *.dmRespRow,*#dm *.dmFooter *.dmRespRow
+{
+	padding-left:70px;
+	padding-right:70px;
+}
+/*SITE_THEME_END*/

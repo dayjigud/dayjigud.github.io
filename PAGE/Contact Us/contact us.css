@@ -1,0 +1,53 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody *.u_1818174637:before{
+    opacity:0.5 !important;
+    background-color:rgb(255,255,255) !important}
+    *#dm *.dmBody *.u_1818174637.before{
+    opacity:0.5 !important;
+    background-color:rgb(255,255,255) !important}
+    *#dm *.dmBody div.u_1818174637:before{
+    background-color:rgba(0,0,0,1) !important;
+    opacity:0.46 !important}
+    *#dm *.dmBody div.u_1818174637.before{
+    background-color:rgba(0,0,0,1) !important;
+    opacity:0.46 !important}
+    *#dm *.dmBody *.u_1953387528:before{
+    opacity:0.5 !important;
+    background-color:rgb(255,255,255) !important}
+    *#dm *.dmBody *.u_1953387528.before{
+    opacity:0.5 !important;
+    background-color:rgb(255,255,255) !important}
+    *#dm *.dmBody div.u_1953387528:before{
+    background-color:rgba(0,0,0,1) !important;
+    opacity:0.46 !important}
+    *#dm *.dmBody div.u_1953387528.before{
+    background-color:rgba(0,0,0,1) !important;
+    opacity:0.46 !important}
+    *#dm *.dmBody *.u_1877675001 *.dmformsubmit{
+    float:LEFT !important}
+    *#dm *.dmBody div.u_1877675001 *.dmforminput label{
+    color:rgba(49,49,49,1) !important}
+    *#dm *.dmBody div.u_1877675001 input:not([type="submit"]){
+    border-bottom-width:1px !important;
+    border-bottom-style:solid !important;
+    border-bottom-color:rgba(0,0,0,1) !important}
+    *#dm *.dmBody div.u_1877675001 textarea{
+    border-bottom-width:1px !important;
+    border-bottom-style:solid !important;
+    border-bottom-color:rgba(0,0,0,1) !important}
+    *#dm *.dmBody div.u_1877675001 select{
+    border-bottom-width:1px !important;
+    border-bottom-style:solid !important;
+    border-bottom-color:rgba(0,0,0,1) !important}
+    *#dm *.dmBody div.u_1877675001 *.dmwidget-title{
+    color:rgba(0,0,0,1) !important}
+    *#dm *.dmBody *.u_1877675001 .dmwidget-title{
+    text-align:LEFT !important}
+    *#dm *.dmBody div.u_1953387528{
+    background-repeat:no-repeat !important;
+    background-image:none !important;
+    background-color:rgba(255,255,255,1) !important}
+    *#dm *.dmBody div.u_1818174637{
+    background-repeat:no-repeat !important;
+    background-image:none !important;
+    background-color:rgba(255,255,255,1) !important}

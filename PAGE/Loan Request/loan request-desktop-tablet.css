@@ -1,0 +1,19 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS DESKTOP AND TABLET DEVICES */
+*#dm *.dmBody div.u_1581133613{
+    float:none !important;
+    top:0 !important;
+    left:0 !important;
+    width:calc(100% - 0px) !important;
+    position:relative !important;
+    height:auto !important;
+    padding-top:0 !important;
+    padding-left:0 !important;
+    padding-bottom:0 !important;
+    margin-right:auto !important;
+    margin-left:auto !important;
+    max-width:100% !important;
+    margin-top:8px !important;
+    margin-bottom:0 !important;
+    padding-right:0 !important;
+    min-width:25px !important;
+    text-align:start !important}

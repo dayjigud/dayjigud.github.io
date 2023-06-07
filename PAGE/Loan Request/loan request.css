@@ -1,0 +1,7 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody *.u_1581133613 .dmforminput{
+    text-align:LEFT !important}
+    *#dm *.dmBody div.u_1581133613 .dmforminput label:not(.for-checkable):not(.custom-contact-checkable){
+    font-weight:normal !important}
+    *#dm *.dmBody div.u_1581133613 .m-recaptcha{
+    font-weight:normal !important}

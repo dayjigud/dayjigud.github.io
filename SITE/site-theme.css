@@ -1,0 +1,111 @@
+/* GLOBAL THEME CSS - YOUR DESIGN CHANGES WILL BE DISPLAYED HERE */
+/* ==================================================================== */
+/*                     System Style Definitions                         */
+/* ==================================================================== */
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*.dmRespRow,*.dmRespDesignRow
+{
+	padding-top:25px;
+	padding-bottom:25px;
+}
+*#dm div.dmContent h1,*#dm div.dmFooter h1
+{
+	color:rgb(17,17,17);
+}
+*#dm div.dmRespCol>*
+{
+	line-height:150%;
+}
+*.dmTabletBody *#dm ul.dmNavWrapper>li>a *.navText,*.dmTabletBody *#dm ul.dmNavWrapper>li>a *.navItemText,*.dmTabletBody *#dm ul.dmNavWrapper>li>*.dmNavigation
+{
+	color:rgb(17,17,17);
+	font-weight:normal;
+}
+*.dmTabletBody *#dm ul.dmNavWrapper>li>a:hover,*.dmTabletBody *#dm ul.dmNavWrapper>li>a.currentPage
+{
+	border-color:rgb(17,17,17);
+}
+*.dmTabletBody *#dm ul.dmNavWrapper>li.navItemSelectedServer>a *.navText,*.dmTabletBody *#dm ul.dmNavWrapper>li.dmNavItemSelected>a *.navItemText,*.dmTabletBody *#dm ul.dmNavWrapper>li.dmNavItemSelected>*.navItemText
+{
+	font-weight:bold;
+}
+*.stickyHeaderSpacer
+{
+	height:227px;
+}
+
+/* ==================================================================== */
+/*                             Inner                                    */
+/* ==================================================================== */
+*#dm div.dmInner,*#dm div.dmInner *.dmRespCol,*#dm *.ecwid *,*#dm *.dmform *.dmforminput label,*.dmPrettyList *.listText,*.dmPrettyList *.itemName
+{
+	font-family:'Source Sans Pro';
+}
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*.dmLargeBody *.dmBody *.dmRespRowsWrapper,*.dmLargeBody *.dm-layout-sec *.dmBody *.dmRespRowsWrapper
+{
+	background-color:transparent;
+}
+
+/* ==================================================================== */
+/*                             Inner                                    */
+/* ==================================================================== */
+*#dm div.dmInner,*#dm div.dmInner *.dmRespCol,*#dm *.ecwid *,*#dm *.dmform *.dmforminput label,*.dmPrettyList *.listText,*.dmPrettyList *.itemName,*#dm *.dmRestaurantMenu *.menuItemBox
+{
+	font-family:Montserrat;
+	font-weight:400;
+	color:rgba(82,82,82,1);
+}
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*#dm div.dmContent h1,*#dm div.dmFooter h1,*#dm div.dm-title h1,*#dm div.dmContent h1 *
+{
+	font-family:Montserrat;
+}
+*#dm div.dmNewParagraph a,*#dm *.dmNewParagraph a,*#dm div.dmBlockElement a,*#dm *.dmBlockElement a,*#dm *.dmform a.fileUploadLink,*.dmPrettyList *.link:not(.dmWidget),*#dm *.dmGeoLocation a.dmGeoSVSeeAll,*#dm *.dmGeoLocation a.dmGeoSVGoToPage
+{
+	color:rgba(255,66,66,1);
+	text-decoration:none;
+}
+*#dm div.dmContent h3,*#dm div.dmFooter h3,*#dm div.dm-title h3,*#dm div.dmContent h3
+{
+	color:rgba(36,36,36,1);
+	font-weight:bold;
+}
+*#dm div.dmContent h4,*#dm div.dmFooter h4,*#dm div.dm-title h4,*#dm div.dmContent h4
+{
+	color:rgba(36,36,36,1);
+}
+*#dm div.dmContent h1,*#dm div.dmFooter h1,*#dm div.dm-title h1,*#dm div.dmContent h1
+{
+	font-weight:bold;
+	color:rgba(0,0,0,1);
+}
+*#dm div.dmContent h2,*#dm div.dmFooter h2,*#dm div.dm-title h2,*#dm div.dmContent h2
+{
+	color:rgba(255,66,66,1);
+}
+
+/* ==================================================================== */
+/*                             Inner                                    */
+/* ==================================================================== */
+*#dm div.dmInner,*#dm div.dmInner *.dmRespCol,*#dm *.ecwid *,*#dm *.dmform *.dmforminput label,*.dmPrettyList *.listText,*.dmPrettyList *.itemName,*#dm *.dmRestaurantMenu *.menuItemBox,*.dmRestaurantMenu *.menuItemName,*.dmRestaurantMenu *.menuItemDesc,*.dmRestaurantMenu *.menuItemPrice,*.dmPhotoGallery p.caption-text,*.dmGeoLocation a span.dmGeoMLocItemTitle,*.dmGeoLocation a span.dmGeoMLocItemDetails,*.map-popup-description
+{
+	font-family:Karla;
+}
+
+/* ==================================================================== */
+/*                     Additional Style Definitions                     */
+/* ==================================================================== */
+*#dm div.dmNewParagraph a,*#dm *.dmNewParagraph a,*#dm div.dmBlockElement a,*#dm *.dmBlockElement a,*#dm *.dmform a.fileUploadLink,*.dmPrettyList *.link:not(.dmWidget),*#dm *.dmGeoLocation a.dmGeoSVSeeAll,*#dm *.dmGeoLocation a.dmGeoSVGoToPage,*#dm *.postDescription a,*#dm *.blog-post-component a,*#dm *.timeline-post a,*#dm .rteBlock a,*#dm *.rteBlock a,*#dm *.rteBlock a,*.newPhotoGallery *.photoGalleryViewAll.link
+{
+	color:rgba(32,133,242,1);
+}
